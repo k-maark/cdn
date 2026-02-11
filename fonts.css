@@ -1,6 +1,4 @@
-<html>
-    <head>
-    <style>
+
         @font-face {
             font-family: 'SF Pro';
             src: url("http://cdn.markisonline.com/fonts/SF-Pro.ttf");
@@ -33,6 +31,3 @@
         .lighter {
             font-weight: lighter;
         }    
-    </style>
-    </head>
-</html>
